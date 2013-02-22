@@ -1,0 +1,1 @@
+$(window).load(function(){$(".flexslider").flexslider({controlNav:!1})});(function(){$("#subscr-trigger").bind("click",function(){$(".newsletter-widget").slideToggle()});$("#menu-item-973").bind("click",function(){$(".search_input").toggle()})})();

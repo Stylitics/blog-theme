@@ -1,0 +1,20 @@
+[22-Feb-2013 14:54:23] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/casvendi/public_html/wptest/wordpress/wp-includes/comment.php on line 1673
+[22-Feb-2013 15:32:53] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:32:54] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:32:55] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:32:57] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:34:06] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/plugins/wp-featured-content-slider/content-slider.php on line 47
+[22-Feb-2013 15:34:15] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:35:18] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:42:50] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:42:53] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:43:32] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:43:33] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:43:36] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:44:08] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:44:48] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:44:49] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:44:50] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 15:55:16] PHP Fatal error:  Class 'kdMultipleFeaturedImages' not found in /home/casvendi/public_html/wptest/wordpress/wp-content/themes/stylitics/page_homepage.php on line 77
+[22-Feb-2013 18:26:42] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/casvendi/public_html/wptest/wordpress/wp-includes/comment.php on line 1673
+[22-Feb-2013 18:26:44] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/casvendi/public_html/wptest/wordpress/wp-includes/comment.php on line 1673

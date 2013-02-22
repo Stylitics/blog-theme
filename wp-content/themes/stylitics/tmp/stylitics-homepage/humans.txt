@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Radu Simion -- front-end developer
+    Andi Bute  -- back-end developer
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Wordpress
+    Normalize.css, jQuery, Modernizr

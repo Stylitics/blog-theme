@@ -1,0 +1,1 @@
+$(window).load(function(){$(".flexslider").flexslider({controlNav:!1,animationSpeed:500,useCSS:!1})});
