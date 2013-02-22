@@ -89,12 +89,26 @@ class WMP_Widget extends WP_Widget {
 		// Display the widget
 		echo $before_widget;
 		if ( $defaults['title'] ) echo $before_title . $defaults['title'] . $after_title;
-		echo '<ul>';
+		echo '<ul class="post-list">';
 		global $post;
 		foreach ( $posts as $post ):
 			setup_postdata( $post );
 			?>
-			<li><a href="<?php the_permalink() ?>" title="<?php echo esc_attr(get_the_title() ? get_the_title() : get_the_ID()); ?>"><?php if ( get_the_title() ) the_title(); else the_ID(); ?></a></li>
+			<li class="post">
+                    <a href="<?php the_permalink() ?>">
+                    	<?php 
+							$x = kdMultipleFeaturedImages::get_featured_image_id('featured-image-5', 'post', $post->ID);
+							if($x) {
+			    				kd_mfi_the_featured_image( 'featured-image-5', 'post' );
+							} else {
+								echo get_the_post_thumbnail($post->ID, 'homepage-popular', array('class'=>'post-img'));
+							}
+                    	?>
+
+
+                    </a>
+                    <h4 class="title"><a href="<?php the_permalink() ?>"><?php if ( get_the_title() ) the_title(); else the_ID(); ?></a></h4>
+                </li>
 			<?php
 		endforeach;
 		echo '</ul>';

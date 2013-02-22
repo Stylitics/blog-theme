@@ -1,27 +1,5 @@
-<div class="bottom-posts wrap">
-            
-                <?php get_sidebar('footer'); ?>
-                <!-- <li class="post">
-                    <img class="post-img" src="img/bottom-sample.png" />
-                    <h4 class="title"><a href="#">Link Roundup: What to keep and what to toss</a></h4>
-                </li>
-                <li class="post">
-                    <img class="post-img" src="img/bottom-sample.png" />
-                    <h4 class="title"><a href="#">Closet of the Week: Adrianna Costa of Extra!</a></h4>
-                </li>
-                <li class="post">
-                    <img class="post-img" src="img/bottom-sample.png" />
-                    <h4 class="title"><a href="#">3 Trends That are on Their Way Out</a></h4>
-                </li>
-                <li class="post">
-                    <img class="post-img" src="img/bottom-sample.png" />
-                    <h4 class="title"><a href="#">The Year in Review: What’s in Your Closet?</a></h4>
-                </li>
-                <li class="post">
-                    <img class="post-img" src="img/bottom-sample.png" />
-                    <h4 class="title"><a href="#">Closet of the Week: Adrianna Costa of Extra!</a></h4>
-                </li> -->
-            
+        <div class="bottom-posts wrap">
+            <?php get_sidebar('footer'); ?>
         </div>
 
  		<div class="footer clearfix">

@@ -42,15 +42,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/404.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/404.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/tmp\/stylitics-homepage\/img\/recent-sample-wide.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -61,6 +52,15 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-wide.png",
       "initialSize" : 33266,
       "fileType" : 8192
+    },
+    "\/404.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/404.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/style.css" : {
       "ignoreWasSetByUser" : 0,
@@ -93,6 +93,15 @@
       "initialSize" : 204605,
       "fileType" : 8192
     },
+    "\/tag.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tag.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/tmp\/stylitics-homepage\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -103,15 +112,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/main-ck-ck.js",
       "fileType" : 64
-    },
-    "\/tag.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tag.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/tmp\/stylitics-homepage\/post.html" : {
       "ignoreWasSetByUser" : 0,
@@ -144,15 +144,6 @@
       "initialSize" : 6041,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/img\/now-trending.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -163,6 +154,15 @@
       "outputAbbreviatedPath" : "\/img\/now-trending.png",
       "initialSize" : 6269,
       "fileType" : 8192
+    },
+    "\/tmp\/stylitics-homepage\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/bottomslider-sample.png" : {
       "ignoreWasSetByUser" : 0,
@@ -266,14 +266,16 @@
       "initialSize" : 6041,
       "fileType" : 8192
     },
-    "\/footer.php" : {
+    "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/footer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
+      "initialSize" : 1475,
+      "fileType" : 8192
     },
     "\/img\/cat-tifh.png" : {
       "ignoreWasSetByUser" : 0,
@@ -286,6 +288,15 @@
       "initialSize" : 4273,
       "fileType" : 8192
     },
+    "\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/archive.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -294,17 +305,6 @@
       "inputAbbreviatedPath" : "\/archive.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "initialSize" : 6269,
-      "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/img\/get-organized.png" : {
       "ignoreWasSetByUser" : 0,
@@ -326,17 +326,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/meta-border.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/meta-border.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/meta-border.jpg",
-      "initialSize" : 304,
-      "fileType" : 4096
-    },
     "\/tmp\/stylitics-homepage\/apple-touch-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -347,6 +336,17 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon.png",
       "initialSize" : 730,
       "fileType" : 8192
+    },
+    "\/img\/meta-border.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/meta-border.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/meta-border.jpg",
+      "initialSize" : 304,
+      "fileType" : 4096
     },
     "\/img\/get-organized.png" : {
       "ignoreWasSetByUser" : 0,
@@ -359,15 +359,15 @@
       "initialSize" : 4131,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
+    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
-      "initialSize" : 1475,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
+      "initialSize" : 6269,
       "fileType" : 8192
     },
     "\/css\/sass\/_styleBuild.scss" : {
@@ -424,15 +424,15 @@
       "initialSize" : 17689,
       "fileType" : 8192
     },
-    "\/img\/temp-logo-small.png" : {
+    "\/img\/cat-psych.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/temp-logo-small.png",
+      "inputAbbreviatedPath" : "\/img\/cat-psych.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/temp-logo-small.png",
-      "initialSize" : 4427,
+      "outputAbbreviatedPath" : "\/img\/cat-psych.png",
+      "initialSize" : 4330,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/img\/sample-votew.png" : {
@@ -446,15 +446,15 @@
       "initialSize" : 17689,
       "fileType" : 8192
     },
-    "\/img\/cat-psych.png" : {
+    "\/img\/temp-logo-small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/cat-psych.png",
+      "inputAbbreviatedPath" : "\/img\/temp-logo-small.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/cat-psych.png",
-      "initialSize" : 4330,
+      "outputAbbreviatedPath" : "\/img\/temp-logo-small.png",
+      "initialSize" : 4427,
       "fileType" : 8192
     },
     "\/img\/subscribe-promo.png" : {
@@ -598,15 +598,6 @@
       "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
       "fileType" : 64
     },
-    "\/sidebar-poll.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-poll.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/tmp\/stylitics-homepage\/apple-touch-icon-114x114-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -617,6 +608,15 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-114x114-precomposed.png",
       "initialSize" : 1189,
       "fileType" : 8192
+    },
+    "\/sidebar-poll.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sidebar-poll.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/css\/sass\/_main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -653,6 +653,15 @@
       "initialSize" : 376,
       "fileType" : 8192
     },
+    "\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -663,15 +672,6 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png",
       "initialSize" : 28090,
       "fileType" : 8192
-    },
-    "\/page_homepage.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/page_homepage.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/header.php" : {
       "ignoreWasSetByUser" : 0,
@@ -693,6 +693,17 @@
       "initialSize" : 473,
       "fileType" : 8192
     },
+    "\/img\/logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/logo.png",
+      "initialSize" : 1684,
+      "fileType" : 8192
+    },
     "\/img\/twitter-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -704,15 +715,15 @@
       "initialSize" : 377,
       "fileType" : 8192
     },
-    "\/img\/logo.png" : {
+    "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/logo.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/logo.png",
-      "initialSize" : 1684,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
+      "initialSize" : 3302,
       "fileType" : 8192
     },
     "\/img\/topslider-sample.png" : {
@@ -726,15 +737,6 @@
       "initialSize" : 183335,
       "fileType" : 8192
     },
-    "\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/img\/googleplus-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -746,6 +748,15 @@
       "initialSize" : 583,
       "fileType" : 8192
     },
+    "\/page_homepage.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/page_homepage.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/img\/sprite.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -755,17 +766,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/sprite.png",
       "initialSize" : 7599,
-      "fileType" : 8192
-    },
-    "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
-      "initialSize" : 3302,
       "fileType" : 8192
     },
     "\/js\/main-ck.js" : {
@@ -895,14 +895,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/tmp\/stylitics-homepage\/404.html" : {
+    "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_assets.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/tmp\/stylitics-homepage\/js\/vendor\/jquery-1.9.0.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -915,17 +918,14 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/vendor\/jquery-1.9.0.min-ck.js",
       "fileType" : 64
     },
-    "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss" : {
+    "\/tmp\/stylitics-homepage\/404.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_assets.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/css\/sass\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -982,14 +982,16 @@
       "initialSize" : 9207,
       "fileType" : 8192
     },
-    "\/single.php" : {
+    "\/js\/main.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/single.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/js\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/main-ck.js",
+      "fileType" : 64
     },
     "\/tmp\/stylitics-homepage\/img\/sample-catlist.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1013,16 +1015,23 @@
       "initialSize" : 13333,
       "fileType" : 8192
     },
-    "\/js\/main.js" : {
+    "\/single.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/main-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/single.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/sidebar-primary.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sidebar-primary.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/rss-icon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1034,15 +1043,6 @@
       "outputAbbreviatedPath" : "\/img\/rss-icon.png",
       "initialSize" : 475,
       "fileType" : 8192
-    },
-    "\/sidebar-primary.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-primary.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/img\/recent-sample-wide.png" : {
       "ignoreWasSetByUser" : 0,

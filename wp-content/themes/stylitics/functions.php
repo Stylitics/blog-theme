@@ -157,35 +157,6 @@ function ari_widgets_init() {
 		'after_title' => '</h3>',
 	) );
 
-	// Secondary Widget area (right, additional sidebar)
-	register_sidebar( array(
-		'name' => __( 'Secondary Widget Area', 'ari' ),
-		'id' => 'secondary-widget-area',
-		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
-		'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
-		'after_widget' => '</li>',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
-
-	register_sidebar( array(
-		'name' => __( 'Category Widget Area', 'ari' ),
-		'id' => 'category-widget-area',
-		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
-		'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
-		'after_widget' => '</li>',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
-	register_sidebar( array(
-		'name' => __( 'Latest postst area', 'ari' ),
-		'id' => 'latest-widget-area',
-		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
-		'before_widget' => '',
-		'after_widget' => '',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
 	register_sidebar( array(
 		'name' => __( 'Footer postst area', 'ari' ),
 		'id' => 'footer-widget-area',
@@ -196,26 +167,8 @@ function ari_widgets_init() {
 		'after_title' => '</h3>',
 	) );
 	register_sidebar( array(
-		'name' => __( 'Today postst area', 'ari' ),
-		'id' => 'today-widget-area',
-		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
-		'before_widget' => '',
-		'after_widget' => '',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
-	register_sidebar( array(
 		'name' => __( 'Homepage poll area', 'ari' ),
 		'id' => 'poll-widget-area',
-		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
-		'before_widget' => '',
-		'after_widget' => '',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
-	register_sidebar( array(
-		'name' => __( 'Homepage recent area', 'ari' ),
-		'id' => 'homepagerecent-widget-area',
 		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
 		'before_widget' => '',
 		'after_widget' => '',
