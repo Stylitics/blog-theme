@@ -3,7 +3,9 @@ $(window).load(function() {
 		controlNav: false
 	});
 });
+
 (function(){
+
 	// subscription form show
 	$('#subscr-trigger').bind('click', function(){
 		$('.newsletter-widget').slideToggle();
@@ -13,5 +15,6 @@ $(window).load(function() {
 	$('#menu-item-973').bind('click', function(){
 		$('.search_input').toggle();
 	});
+	
 })();
 
