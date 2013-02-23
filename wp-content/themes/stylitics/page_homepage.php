@@ -90,10 +90,7 @@ Template Name: homepage
                 </div>
             </div>
             <div class="c333 sidebar">
-                <div class="content-area poll">
-                    <div class="container">
-                         <?php get_sidebar('poll'); ?>
-                    </div>
+                <div class="content-area">
                 </div>
                 <div class="newsletter-container">
                     <img id="subscr-trigger" class="promo promo-subscribe" src="wp-content/themes/stylitics/img/subscribe-promo.png" />
