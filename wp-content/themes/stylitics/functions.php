@@ -254,7 +254,7 @@ if( class_exists( 'kdMultipleFeaturedImages' ) ) {
                 'post_type' => 'post',      // Set this to post or page
                 'labels' => array(
                     'name'      => 'Popular posts thumbnail',
-                    'set'       => 'Set popular posts thumbnail',
+                    'set'       => 'Set popular posts thumbnail 171x261px',
                     'remove'    => 'Remove popular posts thumbnail',
                     'use'       => 'Use as popular posts thumbnail',
                 )
