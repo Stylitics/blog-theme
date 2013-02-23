@@ -14,8 +14,8 @@
  * @package WordPress
  */
 
-define('WP_HOME','http://dev.stylitics.com/stylitics-clean/');
-define('WP_SITEURL','http://dev.stylitics.com/stylitics-clean/');
+define('WP_HOME','http://blog.stylitics.com//');
+define('WP_SITEURL','http://blog.stylitics.com/');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
