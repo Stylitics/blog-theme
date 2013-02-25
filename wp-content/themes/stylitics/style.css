@@ -776,7 +776,9 @@ ul, ol, li, h1, h2, h3, h4 {
     .recent-posts > .title a {
       color: #fff; }
   .recent-posts .post {
-    position: absolute; }
+    position: absolute;
+    width: 144px;
+    height: 200px; }
     .recent-posts .post .title {
       background: rgba(0, 0, 0, 0.85);
       font-family: "Times New Roman", serif;
@@ -791,9 +793,6 @@ ul, ol, li, h1, h2, h3, h4 {
       width: 155px;
       text-align: center;
       padding: 10px 10px; }
-  .recent-posts .long {
-    width: 144px;
-    height: 200px; }
   .recent-posts .type {
     top: -2px;
     left: -3px;

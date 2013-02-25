@@ -1,0 +1,15 @@
+@import "assets";
+.recent-posts {
+	li {
+		.title,
+		.type span {
+			background: url(#{$imgpath}b70.png);
+			color: #fff;
+		}
+		&:nth-child(2) .title,
+		&:nth-child(3) .title {
+			background: url(#{$imgpath}w70.png);
+			color: #000;
+		}
+	}
+}

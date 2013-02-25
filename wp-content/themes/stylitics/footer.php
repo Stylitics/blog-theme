@@ -19,6 +19,10 @@
         <script>window.jQuery || document.write('<script src="wp-includes/js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
         <script src="/wp-content/themes/stylitics/js/plugins.js"></script>
         <script src="/wp-content/themes/stylitics/js/main.js"></script>
+        <!--[if (gte IE 6)&(lte IE 9)]>
+          <script type="text/javascript" src="/wp-content/themes/stylitics/js/selectivizr-min.js"></script>
+          <link rel="stylesheet" href="/wp-content/themes/stylitics/ie.css" type="text/css" media="all" />
+        <![endif]-->
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
