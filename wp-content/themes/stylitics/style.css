@@ -1070,6 +1070,14 @@ ul, ol, li, h1, h2, h3, h4 {
   .social-share .comments .icon {
     background: url(img/sprite.png) no-repeat -199px -80px; }
 
+.social-buttons {
+  list-style-type: none;
+  margin-bottom: 15px; }
+  .social-buttons li {
+    display: inline; }
+    .social-buttons li:first-child {
+      margin-right: 10px; }
+
 .tags {
   font-family: ProximaNova, Helvetica, Arial, sans-serif;
   font-size: 13px; }

@@ -257,19 +257,27 @@
       "fileType" : 2048
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "\/search.php" : {
 =======
     "\/footer.php" : {
 >>>>>>> ffdfe04... fixed cat-list line issue
+=======
+    "\/sidebar-homepagerecent.php" : {
+>>>>>>> 0b58c83... added social buttons in posts
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/search.php",
 =======
       "inputAbbreviatedPath" : "\/footer.php",
 >>>>>>> ffdfe04... fixed cat-list line issue
+=======
+      "inputAbbreviatedPath" : "\/sidebar-homepagerecent.php",
+>>>>>>> 0b58c83... added social buttons in posts
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -295,15 +303,15 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
     },
-    "\/img\/w70.png" : {
+    "\/img\/today.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/w70.png",
+      "inputAbbreviatedPath" : "\/img\/today.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/w70.png",
-      "initialSize" : 70,
+      "outputAbbreviatedPath" : "\/img\/today.png",
+      "initialSize" : 6041,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
@@ -347,15 +355,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/today.png" : {
+    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/today.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/today.png",
-      "initialSize" : 6041,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
+      "initialSize" : 6269,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/img\/get-organized.png" : {
@@ -368,6 +376,15 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/get-organized.png",
       "initialSize" : 4131,
       "fileType" : 8192
+    },
+    "\/sidebar-latest.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sidebar-latest.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/tmp\/stylitics-homepage\/apple-touch-icon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -391,28 +408,27 @@
       "initialSize" : 304,
       "fileType" : 4096
     },
-    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
+    "\/footer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "initialSize" : 6269,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
-    "\/img\/get-organized.png" : {
+    "\/img\/w70.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/get-organized.png",
+      "inputAbbreviatedPath" : "\/img\/w70.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/get-organized.png",
-      "initialSize" : 4131,
+      "outputAbbreviatedPath" : "\/img\/w70.png",
+      "initialSize" : 70,
       "fileType" : 8192
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -453,6 +469,8 @@
       "fileType" : 2048
 >>>>>>> e444aed... added polls
     },
+=======
+>>>>>>> 0b58c83... added social buttons in posts
     "\/css\/sass\/_styleBuild.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -476,14 +494,16 @@
       "initialSize" : 71964,
       "fileType" : 8192
     },
-    "\/sidebar-homepagerecent.php" : {
+    "\/img\/get-organized.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-homepagerecent.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/img\/get-organized.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/get-organized.png",
+      "initialSize" : 4131,
+      "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/category.html" : {
       "ignoreWasSetByUser" : 0,
@@ -733,18 +753,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_main.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/img\/fb-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -755,6 +763,24 @@
       "outputAbbreviatedPath" : "\/img\/fb-icon.png",
       "initialSize" : 376,
       "fileType" : 8192
+    },
+    "\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/page_homepage.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/page_homepage.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png" : {
       "ignoreWasSetByUser" : 0,
@@ -767,15 +793,6 @@
       "initialSize" : 28090,
       "fileType" : 8192
     },
-    "\/page_homepage.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/page_homepage.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/header.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -785,15 +802,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
+    "\/img\/flickr-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
+      "inputAbbreviatedPath" : "\/img\/flickr-icon.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
-      "initialSize" : 3302,
+      "outputAbbreviatedPath" : "\/img\/flickr-icon.png",
+      "initialSize" : 473,
+      "fileType" : 8192
+    },
+    "\/img\/twitter-icon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/twitter-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/twitter-icon.png",
+      "initialSize" : 377,
       "fileType" : 8192
     },
     "\/img\/logo.png" : {
@@ -807,26 +835,18 @@
       "initialSize" : 1684,
       "fileType" : 8192
     },
-    "\/img\/topslider-sample.png" : {
+    "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/topslider-sample.png",
-      "initialSize" : 183335,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-posts.png",
+      "initialSize" : 3302,
       "fileType" : 8192
     },
-    "\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "\/page_homepage.php" : {
@@ -835,14 +855,17 @@
 =======
     "\/img\/twitter-icon.png" : {
 >>>>>>> ffdfe04... fixed cat-list line issue
+=======
+    "\/img\/topslider-sample.png" : {
+>>>>>>> 0b58c83... added social buttons in posts
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/twitter-icon.png",
+      "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/twitter-icon.png",
-      "initialSize" : 377,
+      "outputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "initialSize" : 183335,
       "fileType" : 8192
     },
 <<<<<<< HEAD
@@ -869,17 +892,19 @@
       "initialSize" : 7599,
       "fileType" : 8192
     },
-    "\/img\/googleplus-icon.png" : {
+    "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/googleplus-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/googleplus-icon.png",
-      "initialSize" : 583,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_main.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "\/img\/topslider-sample.png" : {
@@ -889,10 +914,14 @@
 =======
     "\/img\/flickr-icon.png" : {
 >>>>>>> ffdfe04... fixed cat-list line issue
+=======
+    "\/img\/googleplus-icon.png" : {
+>>>>>>> 0b58c83... added social buttons in posts
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
@@ -911,6 +940,12 @@
       "outputAbbreviatedPath" : "\/img\/flickr-icon.png",
       "initialSize" : 473,
 >>>>>>> ffdfe04... fixed cat-list line issue
+=======
+      "inputAbbreviatedPath" : "\/img\/googleplus-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/googleplus-icon.png",
+      "initialSize" : 583,
+>>>>>>> 0b58c83... added social buttons in posts
       "fileType" : 8192
     },
     "\/js\/main-ck.js" : {
@@ -1055,26 +1090,36 @@
       "fileType" : 2048
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss" : {
 =======
     "\/tmp\/stylitics-homepage\/404.html" : {
 >>>>>>> e444aed... added polls
+=======
+    "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss" : {
+>>>>>>> 0b58c83... added social buttons in posts
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0b58c83... added social buttons in posts
       "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_assets.css",
       "fileType" : 4,
       "debugStyle" : 0
+<<<<<<< HEAD
 =======
       "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
 >>>>>>> e444aed... added polls
+=======
+>>>>>>> 0b58c83... added social buttons in posts
     },
     "\/tmp\/stylitics-homepage\/js\/vendor\/jquery-1.9.0.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1087,17 +1132,14 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/vendor\/jquery-1.9.0.min-ck.js",
       "fileType" : 64
     },
-    "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss" : {
+    "\/tmp\/stylitics-homepage\/404.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/css\/sass\/_assets.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_assets.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
 <<<<<<< HEAD
     "\/tmp\/stylitics-homepage\/js\/vendor\/jquery-1.9.0.min.js" : {
@@ -1189,17 +1231,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/js\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/main-ck.js",
-      "fileType" : 64
-    },
     "\/tmp\/stylitics-homepage\/img\/sample-catlist.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1210,6 +1241,17 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/sample-catlist.png",
       "initialSize" : 25130,
       "fileType" : 8192
+    },
+    "\/js\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/main-ck.js",
+      "fileType" : 64
     },
     "\/tmp\/stylitics-homepage\/img\/temp-logo-big.png" : {
       "ignoreWasSetByUser" : 0,

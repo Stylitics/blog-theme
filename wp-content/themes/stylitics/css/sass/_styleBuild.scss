@@ -634,6 +634,8 @@
 		}
 	}
 }
+
+// styling for the share buttons .. which don't allow styling
 .social-share {
 	list-style-type: none;
 	font-family: ProximaNova, $sans-serif;
@@ -688,6 +690,15 @@
 		}
 	}
 }
+.social-buttons {
+	list-style-type: none;
+	margin-bottom: 15px;
+	li {
+		display: inline;
+		&:first-child {margin-right: 10px;}
+	}
+}
+
 .tags {
 	font-family: ProximaNova, $sans-serif;
 	font-size: 13px;
