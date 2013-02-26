@@ -34,7 +34,7 @@
             <div class="header">
                 <div class="time">
                     <span class="month"><?php echo $post_date[1]; ?></span> <br/>
-                    <span class="day"><?php echo $post_date[0]; ?><sup>th</sup></span>
+                    <span class="day"><?php echo $post_date[0]; ?><sup><?php the_time('S'); ?></sup></span>
                 </div>
                 <h1 class="title"><a href="#"><?php the_title(); ?></a></h1>
                 <a class="comment-bubble" href="#"> <?php comments_number( '0', '1', "%" ); ?></a>

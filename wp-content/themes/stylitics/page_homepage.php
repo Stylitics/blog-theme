@@ -40,7 +40,7 @@ Template Name: homepage
                                     ?>
                                     <div class="time">
                                         <span class="month"><?php the_time('F'); ?></span> <br/>
-                                        <span class="day"><?php the_time('j'); ?><sup>th</sup></span>
+                                        <span class="day"><?php the_time('j'); ?><sup><?php the_time('S'); ?></sup></span>
                                     </div>
                                     <div class="container">
                                         <p class="excerpt">
