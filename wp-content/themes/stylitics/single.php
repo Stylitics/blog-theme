@@ -46,7 +46,7 @@
                 <li><a style="margin-right: 5px;" data-pin-config="beside" href="//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a></li>
                 <li><iframe src="//www.facebook.com/plugins/like.php?href=<?php the_permalink();?>&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=209742945804238" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 85px; height:21px;" allowTransparency="true"></iframe></li>
                 <li>
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="Stylitics Report">Tweet</a>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="stylitics">Tweet</a>
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </li>
             </ul>
