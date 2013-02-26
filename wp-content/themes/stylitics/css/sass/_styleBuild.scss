@@ -267,7 +267,7 @@
 			padding: 10px 0;
 		}
 		&:first-child a {padding-top: 0;}
-		&:nth-last-child(2) a {padding-bottom: 0; border: 0;}
+		&:last-child a {padding-bottom: 0; border: 0;}
 	}
 	.current-cat a {font-weight: bold;}
 }

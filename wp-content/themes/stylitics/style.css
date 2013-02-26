@@ -664,7 +664,7 @@ ul, ol, li, h1, h2, h3, h4 {
       padding: 10px 0; }
     .category-list li:first-child a {
       padding-top: 0; }
-    .category-list li:nth-last-child(2) a {
+    .category-list li:last-child a {
       padding-bottom: 0;
       border: 0; }
   .category-list .current-cat a {
