@@ -60,7 +60,14 @@ Template Name: homepage
                     <div class="title">Recent Posts</div>
                     <ul class="recent-posts">
 
-                        <?php $temp_query = $wp_query; query_posts('showposts=4&cat=-942'); ?>
+                        <?php 
+                        $rargs = array(
+                            'showposts' => 4,
+                            'cat'      => -994
+                        );
+                        $temp_query = $wp_query; query_posts($rargs); 
+
+                        ?>
                         <?php while (have_posts()) { the_post(); ?>
                         <li class="post long">
                             <div class="type">
