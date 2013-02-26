@@ -91,6 +91,7 @@ Template Name: homepage
             </div>
             <div class="c333 sidebar">
                 <div class="content-area">
+                    <?php get_sidebar('homepage'); ?>
                 </div>
                 <div class="newsletter-container">
                     <img id="subscr-trigger" class="promo promo-subscribe" src="wp-content/themes/stylitics/img/subscribe-promo.png" />

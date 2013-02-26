@@ -24,7 +24,7 @@ function ari_setup() {
 	add_editor_style();
 	
 	/* This theme uses post thumbnails */
-	if ( function_exists( 'add_theme_support' ) ) {
+	if ( function_exists( 'add_theme_support', array( 'post','xtechnos_poll'))) {
 		add_theme_support( 'post-thumbnails' );
         set_post_thumbnail_size( 150, 150 ); // default Post Thumbnail dimensions   
 	}
@@ -33,7 +33,8 @@ function ari_setup() {
 		add_image_size( 'big-slider-top', 840, 385, true ); //(cropped)
 		add_image_size( 'fashion-history-slider', 180, 271, true ); //(cropped)
 		add_image_size( 'category-post-list-images', 170, 226, true ); //(cropped)
-		add_image_size( 'recent-posts', 199, 162, true ); //(cropped)	
+		add_image_size( 'recent-posts', 199, 162, true ); //(cropped)
+		add_image_size( 'poll-pic', 138, 144, true ); //(cropped)
 	}
 
 	/* Add default posts and comments RSS feed links to head */
@@ -147,18 +148,9 @@ endif;
 /* Register widgetized areas, including two sidebars and four widget-ready columns in the footer. */
 function ari_widgets_init() {
 	// Primary Widget area (left, fixed sidebar)
-	register_sidebar( array(
-		'name' => __( 'Primary Widget Area', 'ari' ),
-		'id' => 'primary-widget-area',
-		'description' => __( 'Here you can put one or two of your main widgets (like an intro text, your page navigation or some social site links) in your left sidebar. The sidebar is fixed, so the widgets content will always be visible, even when scrolling down the page.', 'ari' ),
-		'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
-		'after_widget' => '</li>',
-		'before_title' => '<h3 class="widget-title">',
-		'after_title' => '</h3>',
-	) );
 
 	register_sidebar( array(
-		'name' => __( 'Footer postst area', 'ari' ),
+		'name' => __( 'Footer posts area', 'ari' ),
 		'id' => 'footer-widget-area',
 		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
 		'before_widget' => '',
@@ -167,8 +159,8 @@ function ari_widgets_init() {
 		'after_title' => '</h3>',
 	) );
 	register_sidebar( array(
-		'name' => __( 'Homepage poll area', 'ari' ),
-		'id' => 'poll-widget-area',
+		'name' => __( 'Homepage Sidebar', 'ari' ),
+		'id' => 'homepage-sidebar',
 		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
 		'before_widget' => '',
 		'after_widget' => '',

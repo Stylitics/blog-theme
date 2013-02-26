@@ -875,35 +875,40 @@ ul, ol, li, h1, h2, h3, h4 {
   .social .pinterest a {
     background-position: -195px -43px; }
 
-.poll .container {
-  position: relative;
-  width: 275px;
-  margin: 24px auto 0 auto; }
-.poll .type {
-  top: 31px;
-  left: -46px; }
-.poll .title {
-  background: #000;
-  color: #fff;
-  font-family: "Times New Roman", serif;
-  font-size: 18px;
-  width: 160px;
-  padding: 7px;
-  position: absolute;
-  top: 12px;
-  left: 99px; }
-.poll .vote-form {
-  font-family: ProximaNova, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  color: #646464;
-  margin: 30px 0px 0px 15px; }
-  .poll .vote-form input[type="radio"] {
-    margin: 0px 8px 8px 0px; }
-.poll .submit-button {
-  border: 0;
-  padding: 1px 25px;
-  margin-left: 30%;
-  margin-top: 30px; }
+.poll-widget {
+  position: relative; }
+  .poll-widget .widget-title {
+    top: 31px;
+    left: -46px;
+    display: none; }
+  .poll-widget .poll {
+    position: relative;
+    width: 275px;
+    margin: 24px auto 0 auto; }
+    .poll-widget .poll .title {
+      background: #000;
+      color: #fff;
+      font-family: "Times New Roman", serif;
+      font-size: 13px;
+      font-weight: normal;
+      text-transform: uppercase;
+      width: 160px;
+      padding: 7px;
+      position: absolute;
+      top: 12px;
+      left: 99px; }
+    .poll-widget .poll .vote-form {
+      font-family: ProximaNova, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      color: #646464;
+      margin: 30px 0px 0px 15px; }
+      .poll-widget .poll .vote-form input[type="radio"] {
+        margin: 0px 8px 8px 0px; }
+    .poll-widget .poll .submit-button {
+      border: 0;
+      padding: 1px 25px;
+      margin-left: 30%;
+      margin-top: 30px; }
 
 .promo-subscribe {
   margin-top: 40px;
