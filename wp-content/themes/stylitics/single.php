@@ -37,7 +37,7 @@
                     <span class="day"><?php echo $post_date[0]; ?><sup><?php the_time('S'); ?></sup></span>
                 </div>
                 <h1 class="title"><a href="<?php the_permalink(); ?><"><?php the_title(); ?></a></h1>
-                <a class="comment-bubble" href="<?php echo current_page_url(); ?>#disqus_thread"> <?php comments_number( '0', '1', "%" ); ?></a>
+                <a class="comment-bubble" href="<?php the_permalink(); ?>#disqus-thread"> <?php comments_number( '0', '1', "%" ); ?></a>
             </div>
             <div class="content">
                <?php the_content(); ?>
