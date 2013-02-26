@@ -238,8 +238,8 @@ class xTechnos_Online_Poll {
             
             
 			<script type="text/javascript" src="<?php echo $path ?>/wp-content/plugins/xTechnos-Online-Poll/js/jquery-min.js"></script>
-			<script src="<?php echo $path ?>/wp-content/plugins/xTechnos-Online-Poll/js/dhtmlxchart.js" type="text/javascript"></script>
-            <link rel="STYLESHEET" type="text/css" href="<?php echo $path ?>/wp-content/plugins/xTechnos-Online-Poll/js/dhtmlxchart.css">
+			<script src="<?php echo $path ?>/wp-content/plugins/xtechnos-online-poll/js/dhtmlxchart.js" type="text/javascript"></script>
+            <link rel="STYLESHEET" type="text/css" href="<?php echo $path ?>/wp-content/plugins/xtechnos-online-poll/js/dhtmlxchart.css">
             
 			<script>
             var data = [
