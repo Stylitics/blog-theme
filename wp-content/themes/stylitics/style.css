@@ -420,7 +420,8 @@ ul, ol, li, h1, h2, h3, h4 {
 .c550 {
   position: relative;
   width: 550px;
-  float: right; }
+  float: right;
+  margin-bottom: 30px; }
 
 .c333 {
   position: relative;
