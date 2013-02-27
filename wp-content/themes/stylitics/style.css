@@ -747,11 +747,11 @@ ul, ol, li, h1, h2, h3, h4 {
     position: absolute;
     top: 185px; }
   .bottom-slider .flex-direction-nav .flex-prev {
-    background-position: -2px -108px;
-    left: 20px; }
-  .bottom-slider .flex-direction-nav .flex-next {
     background-position: -31px -108px;
     right: 20px; }
+  .bottom-slider .flex-direction-nav .flex-next {
+    background-position: -2px -108px;
+    left: 20px; }
 
 .type {
   position: absolute;

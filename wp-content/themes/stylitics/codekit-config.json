@@ -82,14 +82,16 @@
       "initialSize" : 302,
       "fileType" : 4096
     },
-    "\/ie.css" : {
+    "\/img\/page-about.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/ie.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/img\/page-about.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/page-about.png",
+      "initialSize" : 3689,
+      "fileType" : 8192
     },
     "\/img\/post-sample.png" : {
       "ignoreWasSetByUser" : 0,
@@ -102,26 +104,6 @@
       "initialSize" : 204605,
       "fileType" : 8192
     },
-    "\/tag.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tag.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/page-about.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/page-about.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/page-about.png",
-      "initialSize" : 3689,
-      "fileType" : 8192
-    },
     "\/tmp\/stylitics-homepage\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -132,6 +114,24 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/main-ck-ck.js",
       "fileType" : 64
+    },
+    "\/tag.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tag.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/ie.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/ie.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/tmp\/stylitics-homepage\/post.html" : {
       "ignoreWasSetByUser" : 0,
@@ -325,17 +325,18 @@
       "initialSize" : 70,
       "fileType" : 8192
     },
-    "\/img\/today.png" : {
+    "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/today.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/today.png",
-      "initialSize" : 6041,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
+      "initialSize" : 1475,
       "fileType" : 8192
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "\/sidebar-homepagerecent.php" : {
@@ -345,27 +346,36 @@
 =======
     "\/footer.php" : {
 >>>>>>> ece3efa... margin between content/footer
+=======
+    "\/img\/cat-tifh.png" : {
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "inputAbbreviatedPath" : "\/sidebar-homepagerecent.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
 =======
+=======
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
       "inputAbbreviatedPath" : "\/img\/cat-tifh.png",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/cat-tifh.png",
       "initialSize" : 4273,
       "fileType" : 8192
+<<<<<<< HEAD
 >>>>>>> e444aed... added polls
 =======
       "inputAbbreviatedPath" : "\/footer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
 >>>>>>> ece3efa... margin between content/footer
+=======
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
     },
     "\/archive.php" : {
       "ignoreWasSetByUser" : 0,
@@ -376,15 +386,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/cat-tifh.png" : {
+    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/cat-tifh.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/cat-tifh.png",
-      "initialSize" : 4273,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
+      "initialSize" : 6269,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/img\/get-organized.png" : {
@@ -407,27 +417,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/meta-border.jpg" : {
+    "\/img\/today.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/meta-border.jpg",
+      "inputAbbreviatedPath" : "\/img\/today.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/meta-border.jpg",
-      "initialSize" : 304,
-      "fileType" : 4096
-    },
-    "\/tmp\/stylitics-homepage\/img\/now-trending.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/now-trending.png",
-      "initialSize" : 6269,
+      "outputAbbreviatedPath" : "\/img\/today.png",
+      "initialSize" : 6041,
       "fileType" : 8192
+    },
+    "\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/get-organized.png" : {
       "ignoreWasSetByUser" : 0,
@@ -440,16 +448,16 @@
       "initialSize" : 4131,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/apple-touch-icon.png" : {
+    "\/img\/meta-border.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon.png",
+      "inputAbbreviatedPath" : "\/img\/meta-border.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon.png",
-      "initialSize" : 730,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/img\/meta-border.jpg",
+      "initialSize" : 304,
+      "fileType" : 4096
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -517,15 +525,15 @@
       "initialSize" : 71964,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
+    "\/tmp\/stylitics-homepage\/apple-touch-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png",
-      "initialSize" : 1475,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/apple-touch-icon.png",
+      "initialSize" : 730,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/category.html" : {
@@ -713,17 +721,16 @@
       "initialSize" : 4427,
       "fileType" : 8192
     },
-    "\/css\/sass\/style.scss" : {
+    "\/img\/temp-logo-big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/sass\/style.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/style.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/temp-logo-big.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/temp-logo-big.png",
+      "initialSize" : 13333,
+      "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/img\/bottom-sample.png" : {
       "ignoreWasSetByUser" : 0,
@@ -736,16 +743,17 @@
       "initialSize" : 25486,
       "fileType" : 8192
     },
-    "\/img\/temp-logo-big.png" : {
+    "\/css\/sass\/style.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/temp-logo-big.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/temp-logo-big.png",
-      "initialSize" : 13333,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/css\/sass\/style.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/style.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/comments.php" : {
       "ignoreWasSetByUser" : 0,
@@ -756,17 +764,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/js\/plugins.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
-      "fileType" : 64
-    },
     "\/js\/selectivizr-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -776,6 +773,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/selectivizr-min-ck.js",
+      "fileType" : 64
+    },
+    "\/js\/plugins.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/plugins.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
       "fileType" : 64
     },
     "\/tmp\/stylitics-homepage\/apple-touch-icon-114x114-precomposed.png" : {
@@ -789,16 +797,17 @@
       "initialSize" : 1189,
       "fileType" : 8192
     },
-    "\/img\/fb-icon.png" : {
+    "\/css\/sass\/_main.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/fb-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/fb-icon.png",
-      "initialSize" : 376,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/css\/sass\/_main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_main.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -811,6 +820,17 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/_main.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/img\/fb-icon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/fb-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/fb-icon.png",
+      "initialSize" : 376,
+      "fileType" : 8192
     },
     "\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -832,24 +852,32 @@
       "initialSize" : 28090,
       "fileType" : 8192
     },
-    "\/css\/sass\/_main.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/sass\/_main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_main.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/header.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/header.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/topslider-sample.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "initialSize" : 183335,
+      "fileType" : 8192
+    },
+    "\/page_homepage.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/page_homepage.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -875,6 +903,7 @@
       "initialSize" : 377,
       "fileType" : 8192
     },
+<<<<<<< HEAD
     "\/img\/logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -904,6 +933,8 @@
     "\/page_homepage.php" : {
 >>>>>>> f62dd3e... styled specific page headers
 =======
+=======
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
     "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
 >>>>>>> ece3efa... margin between content/footer
       "ignoreWasSetByUser" : 0,
@@ -916,6 +947,7 @@
       "initialSize" : 3302,
       "fileType" : 8192
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -952,6 +984,8 @@
       "initialSize" : 183335,
       "fileType" : 8192
     },
+=======
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
     "\/img\/sprite.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1007,14 +1041,16 @@
 >>>>>>> 0b58c83... added social buttons in posts
       "fileType" : 8192
     },
-    "\/page_homepage.php" : {
+    "\/img\/logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/page_homepage.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/img\/logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/logo.png",
+      "initialSize" : 1684,
+      "fileType" : 8192
     },
     "\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1059,17 +1095,6 @@
       "initialSize" : 3594,
       "fileType" : 8192
     },
-    "\/img\/vimeo-icon.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/vimeo-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/vimeo-icon.png",
-      "initialSize" : 410,
-      "fileType" : 8192
-    },
     "\/img\/sample-catlist.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1079,6 +1104,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/sample-catlist.png",
       "initialSize" : 25130,
+      "fileType" : 8192
+    },
+    "\/img\/vimeo-icon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/vimeo-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/vimeo-icon.png",
+      "initialSize" : 410,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/js\/plugins-ck.js" : {
@@ -1174,16 +1210,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+<<<<<<< HEAD
 >>>>>>> 45c2d9a... fixed footer pos
     "\/sidebar-category.php" : {
+=======
+    "\/tmp\/stylitics-homepage\/404.html" : {
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-category.php",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1197,10 +1238,14 @@
 =======
     "\/tmp\/stylitics-homepage\/404.html" : {
 >>>>>>> 45c2d9a... fixed footer pos
+=======
+    "\/sidebar-category.php" : {
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1215,6 +1260,9 @@
 <<<<<<< HEAD
 =======
       "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
+=======
+      "inputAbbreviatedPath" : "\/sidebar-category.php",
+>>>>>>> 04da751... switched bottom-slider arrows for reverse post order
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
 >>>>>>> e444aed... added polls
