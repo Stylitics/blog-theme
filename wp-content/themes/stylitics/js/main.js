@@ -1,6 +1,8 @@
 $(window).load(function() {
 	$('.flexslider').flexslider({
-		controlNav: false
+		controlNav: false,
+		slideshow: true,
+		slideshowSpeed: 3000
 	});
 });
 
