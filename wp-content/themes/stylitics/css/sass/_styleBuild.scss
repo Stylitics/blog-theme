@@ -1011,6 +1011,34 @@ body {
 	}
 }
 
+// page headers
+
+	//terms
+	.page-id-668 {
+		.page-titles .title {
+			width: 280px;
+			height: 150px;
+			text-indent: -9999px;
+			background: url(#{$imgpath}page-terms.png) no-repeat 0px 0px;
+		}
+	}
+	.page-id-665 {
+		.page-titles .title {
+			width: 280px;
+			height: 150px;
+			text-indent: -9999px;
+			background: url(#{$imgpath}page-contact.png) no-repeat 0px 0px;
+		}
+	}
+	.page-id-664 {
+		.page-titles .title {
+			width: 280px;
+			height: 150px;
+			text-indent: -9999px;
+			background: url(#{$imgpath}page-about.png) no-repeat 0px 0px;
+		}
+	}
+
 // misc 
 .s4twitter {width: 79px;}
 .cat-item-1 {display: none;}
