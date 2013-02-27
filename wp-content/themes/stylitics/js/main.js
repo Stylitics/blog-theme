@@ -1,8 +1,12 @@
 $(window).load(function() {
-	$('.flexslider').flexslider({
+	$('.flexslider-top').flexslider({
 		controlNav: false,
 		slideshow: true,
 		slideshowSpeed: 3000
+	});
+	$('.flexslider-bottom').flexslider({
+		controlNav: false,
+		slideshow: false
 	});
 });
 
