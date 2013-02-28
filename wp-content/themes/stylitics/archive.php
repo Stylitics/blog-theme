@@ -16,7 +16,7 @@
     </div>
     <div class="c160 sidebar">
         <ul class="category-list catlist-arch">
-            <?php wp_list_categories('orderby=name&title_li'); ?>
+            <?php wp_list_categories('orderby=name&title_li&exclude=1'); ?>
         </ul>
     </div>
 </div>

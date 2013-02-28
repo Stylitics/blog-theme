@@ -29,7 +29,7 @@
 
 	<div class="c160 sidebar">
         <ul class="category-list">
-            <?php wp_list_categories('orderby=name&title_li'); ?>
+            <?php wp_list_categories('orderby=name&title_li&exclude=1'); ?>
         </ul>
 	</div>
 </div>

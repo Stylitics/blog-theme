@@ -3,10 +3,9 @@
   src: url("fonts/proximanova-reg.woff") format("woff"), url("fonts/proximanova-reg.ttf") format("truetype");
   /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */ }
 
-.recent-posts li .title,
-.recent-posts li .type span {
+.recent-posts li .title {
   background: url(img/b70.png);
   color: #fff; }
-.recent-posts li:nth-child(2) .title, .recent-posts li:nth-child(3) .title {
+.recent-posts .t1 .title {
   background: url(img/w70.png);
   color: #000; }

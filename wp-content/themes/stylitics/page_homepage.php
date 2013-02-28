@@ -13,7 +13,7 @@ Template Name: homepage
                     </ul>
                 </div>
                 <ul class="category-list">
-                    <?php wp_list_categories('orderby=name&title_li'); ?>
+                    <?php wp_list_categories('orderby=name&title_li&exclude=1'); ?>
                 </ul>
             </div>	
         </div>
@@ -56,28 +56,20 @@ Template Name: homepage
                         </ul>
                     </div> 
                 </div>
-                <div class="recent-posts content-area">
+                <div class="recent-posts-area content-area">
                     <div class="title">Recent Posts</div>
-                    <ul class="recent-posts">
+                    <ul class="recent-posts clearfix">
 
                         <?php 
                         $rargs = array(
-                            'showposts' => 4,
+                            'showposts' => 6,
                             'cat'      => -994
                         );
                         $temp_query = $wp_query; query_posts($rargs); 
 
                         ?>
                         <?php while (have_posts()) { the_post(); ?>
-                        <li class="post long">
-                            <div class="type">
-                                <span>
-                                    <?php
-                                        $category = get_the_category(); 
-                                        echo $category[0]->cat_name;
-                                    ?>
-                                </span>
-                            </div>
+                        <li class="post t<?php echo ($xyz++%2); ?>">
                             <a href="<?php the_permalink(); ?>" rel="bookmark" title="Permanent Link to &ldquo;<?php the_title(); ?>&rdquo;">
 
                                 <?php

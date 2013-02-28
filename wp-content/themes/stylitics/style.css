@@ -683,6 +683,10 @@ ul, ol, li, h1, h2, h3, h4 {
 .bottom-slider .post {
   position: relative;
   display: none; }
+  .bottom-slider .post > img {
+    position: absolute;
+    top: 110px;
+    left: 53px; }
 .bottom-slider .time {
   font-family: ProximaNova, Helvetica, Arial, sans-serif;
   position: absolute;
@@ -761,82 +765,56 @@ ul, ol, li, h1, h2, h3, h4 {
   font-size: 16px;
   font-style: italic; }
 
+.recent-posts-area > .title {
+  background: url(img/recent-posts.png) no-repeat 0px 0px;
+  width: 389px;
+  height: 84px;
+  text-indent: -9999px;
+  margin-top: 15px; }
+  .recent-posts-area > .title a {
+    color: #fff; }
+
 .recent-posts {
   list-style-type: none;
-  margin: 0;
+  margin: 18px 0px 60px 0;
   padding: 0;
-  height: 560px; }
-  .recent-posts > .title {
-    background: url(img/recent-posts.png) no-repeat 0px 0px;
-    width: 389px;
-    height: 84px;
-    text-indent: -9999px;
-    position: absolute;
-    top: 15px;
-    right: 36px; }
-    .recent-posts > .title a {
-      color: #fff; }
+  width: 700px; }
   .recent-posts .post {
-    position: absolute;
-    width: 144px;
-    height: 200px; }
+    position: relative;
+    width: 200px;
+    height: 162px;
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 26px; }
     .recent-posts .post .title {
       background: rgba(0, 0, 0, 0.85);
       font-family: "Times New Roman", serif;
       font-size: 17.5px;
       line-height: 16px;
       position: absolute;
-      top: 75px;
-      left: 100px;
+      top: 66px;
+      right: -6px;
       display: block;
       color: #fff;
       font-weight: normal;
-      width: 155px;
+      width: 148px;
       text-align: center;
-      padding: 10px 10px; }
-  .recent-posts .type {
-    top: -2px;
-    left: -3px;
-    width: 200px;
-    text-transform: uppercase;
-    font-size: 10px; }
-    .recent-posts .type span {
-      color: #fff;
-      background: rgba(0, 0, 0, 0.75);
-      padding: 2px 4px; }
-  .recent-posts li:nth-child(1) {
-    top: 41px;
-    left: 32px; }
-  .recent-posts li:nth-child(2) {
-    top: 271px;
-    left: 55px; }
-    .recent-posts li:nth-child(2) .title {
-      background: rgba(255, 255, 255, 0.85);
-      top: 30px;
-      color: #0c0c0c; }
-  .recent-posts li:nth-child(3) {
-    top: 127px;
-    left: 420px; }
-    .recent-posts li:nth-child(3) .title {
-      background: rgba(255, 255, 255, 0.85);
-      top: 28px;
-      left: 92px;
-      color: #0c0c0c; }
-  .recent-posts li:nth-child(4) {
-    top: 320px;
-    left: 355px; }
-    .recent-posts li:nth-child(4) .title {
-      top: 53px;
-      left: 100px; }
+      padding: 10px 10px;
+      z-index: 1; }
+  .recent-posts .t1 .title {
+    background: rgba(255, 255, 255, 0.85);
+    color: #000; }
 
 .bottom-posts {
   border-top: 1px solid #999999;
   padding-top: 40px; }
+  .bottom-posts .post-list {
+    width: 1100px; }
   .bottom-posts .post {
     display: block;
     float: left;
     width: 170px;
-    margin-right: 42px; }
+    margin-right: 48px; }
     .bottom-posts .post:last-child {
       margin-right: 0; }
   .bottom-posts .post-img {
@@ -1315,9 +1293,6 @@ body.category .sidebar {
     float: right;
     margin-top: 15px; }
 
-.newsletter-widget {
-  display: none; }
-
 body .mc_custom_border_hdr {
   display: none; }
 body #mc_signup_form {
@@ -1345,6 +1320,7 @@ body input[type="text"] {
   margin-top: 5px;
   width: 296px; }
 body #mc-indicates-required {
+  display: none;
   color: red;
   font-size: 12px;
   float: left;
