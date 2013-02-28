@@ -52,10 +52,6 @@ $c_slider_class = c_slider_get_dynamic_class();
 				}
 			?>
             <div class="post-content">
-                <div class="time">
-                    <span class="month"><?php the_time('F'); ?></span> <br/>
-                    <span class="day"><?php the_time('j'); ?><sup><?php the_time('S'); ?></sup></span>
-                </div>
                 <h2 class="title">
                     <a href="<?php the_permalink();?>"><?php the_title();?></a>
                 </h2>
