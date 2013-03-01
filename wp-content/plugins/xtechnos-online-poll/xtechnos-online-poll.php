@@ -305,33 +305,37 @@ class xTechnos_Online_Poll {
 			echo $content; 
 
 			?>
-			<div class="poll">
-			<?php echo get_the_post_thumbnail($poll, 'poll-pic', array('class'=>'post-img')); ?>
-			<div class="title"><?php echo get_the_title($poll); ?></div>
+<div class="poll">
+   <?php echo get_the_post_thumbnail($poll, 'poll-pic', array('class'=>'post-img')); ?>
+   <div class="title"><?php echo get_the_title($poll); ?></div>
+   <? if (!empty($_POST['choice'])) { ?>
+    <p>Thank you for voting!</p>
+   <? } else { ?>
             <form class="vote-form" method="post" action="">
-                <?php if($choice1 != "") { ?>			
-                 <input type="radio" name="choice" value="1" /> 
-                 <?php echo $choice1; 
+                <?php if($choice1 != "") { ?>  
+                 <input type="radio" name="choice" value="1" />
+                 <?php echo $choice1;
                   } ?>
-                    
-                <?php if($choice2 != "") { ?>			
+                   
+                <?php if($choice2 != "") { ?>  
                  <br /> <input type="radio" name="choice" value="2" />
-                  <?php echo $choice2; 
+                  <?php echo $choice2;
                  } ?>
-                        
-                <?php if($choice3 != "") { ?>			
+                       
+                <?php if($choice3 != "") { ?>  
                 <br /> <input type="radio" name="choice" value="3" />
                   <?php echo $choice3;
                   } ?>
-                        
-                <?php if($choice4 != "") { ?>			
+                       
+                <?php if($choice4 != "") { ?>  
                  <br /><input type="radio" name="choice" value="4" />
-                 <?php echo $choice4; 
-                  } ?>    
+                 <?php echo $choice4;
+                  } ?>   
                <br /> <input type="submit" value="Vote" class="button submit-button"  />
-                    
+                   
             </form>
-        	</div>
+            <? } ?>
+         </div>
 			<?php
 			$custom = get_post_custom($poll);		
 			$res_choice1 = $custom["x_choice1_res"][0];
