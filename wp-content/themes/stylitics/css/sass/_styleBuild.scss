@@ -35,6 +35,7 @@
 	position: relative;
 	width: 160px;
 	float: right;
+	margin-bottom: 30px;
 }
 .cmiddle {margin-right: 20px;}
 .siteHeader {
@@ -251,9 +252,8 @@
 		}
 	}
 }
-.home .category-list {margin-top: -8px;}
+.home .category-list {margin-top: -8px; float: right;}
 .category-list {
-	float: right;
 	width: 158px;
 	list-style-type: none;
 	li {
@@ -501,8 +501,8 @@
 }
 .promo-subscribe {
 	margin-top: 40px;
-	margin-left: 8px;
 	cursor: pointer;
+	width: 100%;
 }
 .newsletter-submit,
 .button {
@@ -949,6 +949,15 @@ body.category .sidebar {margin-top: 25px;}
 }
 // add
 
+.appstore-link {
+	display: block;
+	margin: 30px 0 0px 0;
+	img {
+		display: block;
+		margin: 0 auto;
+		width: 80%;
+	}
+}
 
 // modal stuff
 body {
@@ -962,7 +971,6 @@ body {
 		.button {
 			float: right;
 			font-size: 16px;
-			margin-right: 15px;
 			border-bottom: 2px solid #ccc;
 			&:hover {
 				background: #3b3b3b;
@@ -973,17 +981,21 @@ body {
 				border-bottom: 0;
 			}
 		}
-	}
-	label {
-		display: block;
-		font-family: ProximaNova, $sans-serif;
-	}
-	input[type="text"] {
-		border: 1px solid #ccc;
-		padding: 4px;
-		margin-bottom: 15px;
-		margin-top: 5px;
-		width: 296px;
+		label {
+			display: block;
+			font-family: ProximaNova, $sans-serif;
+		}
+		input[type="text"] {
+			border: 1px solid #ccc;
+			padding: 4px;
+			margin-bottom: 15px;
+			margin-top: 5px;
+			width: 97%;
+		}
+		label[for="mc_mv_FNAME"],
+		label[for="mc_mv_LNAME"],
+		#mc_mv_FNAME,
+		#mc_mv_LNAME {display: none;}
 	}
 	#mc-indicates-required {
 		display: none;

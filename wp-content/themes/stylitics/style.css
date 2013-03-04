@@ -431,7 +431,8 @@ ul, ol, li, h1, h2, h3, h4 {
 .c160 {
   position: relative;
   width: 160px;
-  float: right; }
+  float: right;
+  margin-bottom: 30px; }
 
 .cmiddle {
   margin-right: 20px; }
@@ -647,10 +648,10 @@ ul, ol, li, h1, h2, h3, h4 {
       background-position: -160px -66px; }
 
 .home .category-list {
-  margin-top: -8px; }
+  margin-top: -8px;
+  float: right; }
 
 .category-list {
-  float: right;
   width: 158px;
   list-style-type: none; }
   .category-list li {
@@ -891,8 +892,8 @@ ul, ol, li, h1, h2, h3, h4 {
 
 .promo-subscribe {
   margin-top: 40px;
-  margin-left: 8px;
-  cursor: pointer; }
+  cursor: pointer;
+  width: 100%; }
 
 .newsletter-submit,
 .button {
@@ -1293,6 +1294,14 @@ body.category .sidebar {
     float: right;
     margin-top: 15px; }
 
+.appstore-link {
+  display: block;
+  margin: 30px 0 0px 0; }
+  .appstore-link img {
+    display: block;
+    margin: 0 auto;
+    width: 80%; }
+
 body .mc_custom_border_hdr {
   display: none; }
 body #mc_signup_form {
@@ -1302,7 +1311,6 @@ body #mc_signup_form {
   body #mc_signup_form .button {
     float: right;
     font-size: 16px;
-    margin-right: 15px;
     border-bottom: 2px solid #cccccc; }
     body #mc_signup_form .button:hover {
       background: #3b3b3b;
@@ -1310,15 +1318,20 @@ body #mc_signup_form {
     body #mc_signup_form .button:active {
       background: #4e4e4e;
       border-bottom: 0; }
-body label {
-  display: block;
-  font-family: ProximaNova, Helvetica, Arial, sans-serif; }
-body input[type="text"] {
-  border: 1px solid #cccccc;
-  padding: 4px;
-  margin-bottom: 15px;
-  margin-top: 5px;
-  width: 296px; }
+  body #mc_signup_form label {
+    display: block;
+    font-family: ProximaNova, Helvetica, Arial, sans-serif; }
+  body #mc_signup_form input[type="text"] {
+    border: 1px solid #cccccc;
+    padding: 4px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    width: 97%; }
+  body #mc_signup_form label[for="mc_mv_FNAME"],
+  body #mc_signup_form label[for="mc_mv_LNAME"],
+  body #mc_signup_form #mc_mv_FNAME,
+  body #mc_signup_form #mc_mv_LNAME {
+    display: none; }
 body #mc-indicates-required {
   display: none;
   color: red;

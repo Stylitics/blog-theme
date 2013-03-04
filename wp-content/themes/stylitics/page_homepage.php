@@ -89,15 +89,8 @@ Template Name: homepage
                 </div>
             </div>
             <div class="c333 sidebar">
-                <div class="content-area">
-                    <?php get_sidebar('homepage'); ?>
-                </div>
-                <div class="newsletter-container">
-                    <img id="subscr-trigger" class="promo promo-subscribe" src="wp-content/themes/stylitics/img/subscribe-promo.png" />
-                    <div class="newsletter newsletter-widget">
-                        <?php mailchimpSF_signup_form() ?>
-                    </div>
-                </div>
+                <?php get_sidebar('homepage'); ?>
+                <?php get_sidebar('default'); ?>
             </div>
         </div>
 

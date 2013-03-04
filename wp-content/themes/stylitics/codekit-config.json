@@ -82,14 +82,16 @@
       "initialSize" : 302,
       "fileType" : 4096
     },
-    "\/ie.css" : {
+    "\/img\/page-about.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/ie.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/img\/page-about.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/page-about.png",
+      "initialSize" : 3689,
+      "fileType" : 8192
     },
     "\/img\/post-sample.png" : {
       "ignoreWasSetByUser" : 0,
@@ -102,6 +104,15 @@
       "initialSize" : 204605,
       "fileType" : 8192
     },
+    "\/tag.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tag.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/tmp\/stylitics-homepage\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -113,25 +124,14 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/main-ck-ck.js",
       "fileType" : 64
     },
-    "\/tag.php" : {
+    "\/ie.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tag.php",
+      "inputAbbreviatedPath" : "\/ie.css",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/page-about.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/page-about.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/page-about.png",
-      "initialSize" : 3689,
-      "fileType" : 8192
+      "fileType" : 16
     },
     "\/tmp\/stylitics-homepage\/post.html" : {
       "ignoreWasSetByUser" : 0,
@@ -187,6 +187,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/tmp\/stylitics-homepage\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/img\/now-trending.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -197,15 +206,6 @@
       "outputAbbreviatedPath" : "\/img\/now-trending.png",
       "initialSize" : 6269,
       "fileType" : 8192
-    },
-    "\/tmp\/stylitics-homepage\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/img\/bottomslider-sample.png" : {
       "ignoreWasSetByUser" : 0,
@@ -258,12 +258,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/search.php" : {
+    "\/footer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/search.php",
+      "inputAbbreviatedPath" : "\/footer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -276,14 +276,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/footer.php" : {
+    "\/tmp\/stylitics-homepage\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/footer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/plugins.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/plugins-ck.js",
+      "fileType" : 64
     },
     "\/tmp\/stylitics-homepage\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -296,15 +298,15 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/vendor\/modernizr-2.6.2.min-ck.js",
       "fileType" : 64
     },
-    "\/img\/w70.png" : {
+    "\/img\/today.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/w70.png",
+      "inputAbbreviatedPath" : "\/img\/today.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/w70.png",
-      "initialSize" : 70,
+      "outputAbbreviatedPath" : "\/img\/today.png",
+      "initialSize" : 6041,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/apple-touch-icon-144x144-precomposed.png" : {
@@ -349,15 +351,15 @@
       "initialSize" : 6269,
       "fileType" : 8192
     },
-    "\/img\/today.png" : {
+    "\/tmp\/stylitics-homepage\/img\/get-organized.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/today.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/get-organized.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/today.png",
-      "initialSize" : 6041,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/get-organized.png",
+      "initialSize" : 4131,
       "fileType" : 8192
     },
     "\/sidebar-latest.php" : {
@@ -404,6 +406,7 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "\/archive.php" : {
 =======
     "\/sidebar-latest.php" : {
@@ -411,10 +414,14 @@
 =======
     "\/tmp\/stylitics-homepage\/img\/get-organized.png" : {
 >>>>>>> 423bd62... fixes2
+=======
+    "\/search.php" : {
+>>>>>>> dd460cf... added def sidebar, fixed up form
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "inputAbbreviatedPath" : "\/archive.php",
@@ -430,6 +437,11 @@
       "initialSize" : 4131,
       "fileType" : 8192
 >>>>>>> 423bd62... fixes2
+=======
+      "inputAbbreviatedPath" : "\/search.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+>>>>>>> dd460cf... added def sidebar, fixed up form
     },
     "\/css\/sass\/_styleBuild.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -454,16 +466,16 @@
       "initialSize" : 71964,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/js\/plugins.js" : {
+    "\/img\/w70.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/js\/plugins-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/img\/w70.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/w70.png",
+      "initialSize" : 70,
+      "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/category.html" : {
       "ignoreWasSetByUser" : 0,
@@ -471,15 +483,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/category.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/sidebar-homepage.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-homepage.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -516,17 +519,6 @@
       "initialSize" : 4427,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/img\/sample-votew.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/sample-votew.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/sample-votew.png",
-      "initialSize" : 17689,
-      "fileType" : 8192
-    },
     "\/img\/cat-psych.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -536,6 +528,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/img\/cat-psych.png",
       "initialSize" : 4330,
+      "fileType" : 8192
+    },
+    "\/tmp\/stylitics-homepage\/img\/sample-votew.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/sample-votew.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/sample-votew.png",
+      "initialSize" : 17689,
       "fileType" : 8192
     },
     "\/img\/subscribe-promo.png" : {
@@ -647,6 +650,26 @@
       "initialSize" : 13333,
       "fileType" : 8192
     },
+    "\/tmp\/stylitics-homepage\/img\/bottom-sample.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/bottom-sample.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/bottom-sample.png",
+      "initialSize" : 25486,
+      "fileType" : 8192
+    },
+    "\/sidebar-default.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sidebar-default.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/css\/sass\/style.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -658,17 +681,6 @@
       "outputAbbreviatedPath" : "\/style.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/tmp\/stylitics-homepage\/img\/bottom-sample.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/bottom-sample.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/bottom-sample.png",
-      "initialSize" : 25486,
-      "fileType" : 8192
     },
     "\/comments.php" : {
       "ignoreWasSetByUser" : 0,
@@ -712,17 +724,16 @@
       "initialSize" : 1189,
       "fileType" : 8192
     },
-    "\/css\/sass\/_main.scss" : {
+    "\/img\/fb-icon.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/sass\/_main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_main.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/fb-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/fb-icon.png",
+      "initialSize" : 376,
+      "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/css\/sass\/_main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -736,26 +747,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/page_homepage.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/page_homepage.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/img\/fb-icon.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/fb-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/fb-icon.png",
-      "initialSize" : 376,
-      "fileType" : 8192
-    },
     "\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -764,6 +755,29 @@
       "inputAbbreviatedPath" : "\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/css\/sass\/_main.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/sass\/_main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_main.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png",
+      "initialSize" : 28090,
+      "fileType" : 8192
     },
     "\/header.php" : {
       "ignoreWasSetByUser" : 0,
@@ -774,15 +788,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/topslider-sample.png" : {
+    "\/img\/flickr-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "inputAbbreviatedPath" : "\/img\/flickr-icon.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/topslider-sample.png",
-      "initialSize" : 183335,
+      "outputAbbreviatedPath" : "\/img\/flickr-icon.png",
+      "initialSize" : 473,
       "fileType" : 8192
     },
     "\/img\/twitter-icon.png" : {
@@ -796,6 +810,7 @@
       "initialSize" : 377,
       "fileType" : 8192
     },
+<<<<<<< HEAD
     "\/img\/logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -814,6 +829,8 @@
     "\/img\/flickr-icon.png" : {
 >>>>>>> 6659335... fixes
 =======
+=======
+>>>>>>> dd460cf... added def sidebar, fixed up form
     "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
 >>>>>>> 423bd62... fixes2
       "ignoreWasSetByUser" : 0,
@@ -827,18 +844,42 @@
       "fileType" : 8192
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "\/tmp\/stylitics-homepage\/img\/recent-posts.png" : {
 =======
     "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png" : {
 >>>>>>> 6659335... fixes
+=======
+    "\/img\/logo.png" : {
+>>>>>>> dd460cf... added def sidebar, fixed up form
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png",
+      "inputAbbreviatedPath" : "\/img\/logo.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/recent-sample-long.png",
-      "initialSize" : 28090,
+      "outputAbbreviatedPath" : "\/img\/logo.png",
+      "initialSize" : 1684,
+      "fileType" : 8192
+    },
+    "\/page_homepage.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/page_homepage.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/sprite.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/sprite.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/sprite.png",
+      "initialSize" : 7599,
       "fileType" : 8192
     },
     "\/img\/googleplus-icon.png" : {
@@ -852,26 +893,15 @@
       "initialSize" : 583,
       "fileType" : 8192
     },
-    "\/img\/sprite.png" : {
+    "\/img\/topslider-sample.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/sprite.png",
+      "inputAbbreviatedPath" : "\/img\/topslider-sample.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/sprite.png",
-      "initialSize" : 7599,
-      "fileType" : 8192
-    },
-    "\/img\/flickr-icon.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/flickr-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/flickr-icon.png",
-      "initialSize" : 473,
+      "outputAbbreviatedPath" : "\/img\/topslider-sample.png",
+      "initialSize" : 183335,
       "fileType" : 8192
     },
     "\/js\/main-ck.js" : {
@@ -906,15 +936,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/img\/cat-inside.png" : {
+    "\/img\/sample-catlist.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/cat-inside.png",
+      "inputAbbreviatedPath" : "\/img\/sample-catlist.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/cat-inside.png",
-      "initialSize" : 3594,
+      "outputAbbreviatedPath" : "\/img\/sample-catlist.png",
+      "initialSize" : 25130,
       "fileType" : 8192
     },
     "\/img\/vimeo-icon.png" : {
@@ -928,15 +958,15 @@
       "initialSize" : 410,
       "fileType" : 8192
     },
-    "\/img\/sample-catlist.png" : {
+    "\/img\/cat-inside.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/sample-catlist.png",
+      "inputAbbreviatedPath" : "\/img\/cat-inside.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/sample-catlist.png",
-      "initialSize" : 25130,
+      "outputAbbreviatedPath" : "\/img\/cat-inside.png",
+      "initialSize" : 3594,
       "fileType" : 8192
     },
     "\/tmp\/stylitics-homepage\/js\/plugins-ck.js" : {
@@ -972,15 +1002,15 @@
       "initialSize" : 3307,
       "fileType" : 8192
     },
-    "\/tmp\/stylitics-homepage\/img\/topslider-sample.png" : {
+    "\/img\/cat-spotlight.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/topslider-sample.png",
+      "inputAbbreviatedPath" : "\/img\/cat-spotlight.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/topslider-sample.png",
-      "initialSize" : 183335,
+      "outputAbbreviatedPath" : "\/img\/cat-spotlight.png",
+      "initialSize" : 3222,
       "fileType" : 8192
     },
     "\/loop.php" : {
@@ -1004,21 +1034,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/sidebar-category.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sidebar-category.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/tmp\/stylitics-homepage\/404.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/sidebar-category.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sidebar-category.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1035,6 +1065,7 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "\/loop.php" : {
 =======
     "\/tmp\/stylitics-homepage\/img\/topslider-sample.png" : {
@@ -1042,14 +1073,17 @@
 =======
     "\/img\/cat-spotlight.png" : {
 >>>>>>> 423bd62... fixes2
+=======
+    "\/tmp\/stylitics-homepage\/img\/topslider-sample.png" : {
+>>>>>>> dd460cf... added def sidebar, fixed up form
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/cat-spotlight.png",
+      "inputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/topslider-sample.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/cat-spotlight.png",
-      "initialSize" : 3222,
+      "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/topslider-sample.png",
+      "initialSize" : 183335,
       "fileType" : 8192
     },
     "\/css\/sass\/_normalize.scss" : {
@@ -1127,17 +1161,6 @@
       "initialSize" : 25130,
       "fileType" : 8192
     },
-    "\/js\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/main-ck.js",
-      "fileType" : 64
-    },
     "\/tmp\/stylitics-homepage\/img\/temp-logo-big.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1148,6 +1171,17 @@
       "outputAbbreviatedPath" : "\/tmp\/stylitics-homepage\/img\/temp-logo-big.png",
       "initialSize" : 13333,
       "fileType" : 8192
+    },
+    "\/js\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/main-ck.js",
+      "fileType" : 64
     },
     "\/img\/rss-icon.png" : {
       "ignoreWasSetByUser" : 0,

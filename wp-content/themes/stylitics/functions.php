@@ -159,7 +159,16 @@ function ari_widgets_init() {
 		'after_title' => '</h3>',
 	) );
 	register_sidebar( array(
-		'name' => __( 'Homepage Sidebar', 'ari' ),
+		'name' => __( 'Default Sidebar', 'ari' ),
+		'id' => 'default-sidebar',
+		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
+		'before_widget' => '',
+		'after_widget' => '',
+		'before_title' => '<h3 class="widget-title">',
+		'after_title' => '</h3>',
+	) );
+	register_sidebar( array(
+		'name' => __( 'homepage Sidebar', 'ari' ),
 		'id' => 'homepage-sidebar',
 		'description' => __( 'Here you can put all the additional widgets for your right sidebar.', 'ari' ),
 		'before_widget' => '',

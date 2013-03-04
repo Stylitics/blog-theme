@@ -18,6 +18,7 @@
         <ul class="category-list catlist-arch">
             <?php wp_list_categories('orderby=name&title_li&exclude=1'); ?>
         </ul>
+        <?php get_sidebar('default'); ?>
     </div>
 </div>
 

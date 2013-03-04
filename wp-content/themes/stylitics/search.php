@@ -6,9 +6,9 @@
         </div>
     </div>
     <?php if ( have_posts() ) : ?>
-    <div class="title-tpl" style="border-bottom: 1px solid #ccc;">
+<!--     <div class="title-tpl">
             <?php echo $wp_query->found_posts; ?> <?php printf( __( 'Search Results for <strong>%s</strong>', 'ari' ), '' . get_search_query() . '' ); ?>
-    </div>
+    </div> -->
     <?php get_template_part( 'loop' ); ?>
     <?php else : ?>
     <div class="archive"><strong><?php _e( 'No Search Result Found', 'ari' ); ?></strong></div>
@@ -21,6 +21,7 @@
         <ul class="category-list catlist-arch">
             <?php wp_list_categories('orderby=name&title_li&exclude=1'); ?>
         </ul>
+        <?php get_sidebar('default'); ?>
     </div>
 </div>
 <?php get_footer(); ?>

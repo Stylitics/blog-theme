@@ -1,4 +1,3 @@
-
 <?php /* If there are no posts to display, such as an empty archive page */ ?>
 <?php if ( ! have_posts() ) : ?>
 		<h1><?php _e( 'Not Found', 'ari' ); ?></h1>
