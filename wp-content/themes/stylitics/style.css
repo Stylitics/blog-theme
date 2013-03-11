@@ -9,6 +9,11 @@ Author URI: catalystww.com
   src: url("fonts/proximanova-reg.woff") format("woff"), url("fonts/proximanova-reg.ttf") format("truetype");
   /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */ }
 
+@font-face {
+  font-family: 'ProximaNovaBold';
+  src: url("fonts/proximanova-bold.woff") format("woff"), url("fonts/proximanova-bold.ttf") format("truetype");
+  /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */ }
+
 article,
 aside,
 details,
@@ -998,6 +1003,8 @@ ul, ol, li, h1, h2, h3, h4 {
     text-decoration: underline; }
     .post-full .content a:hover {
       font-style: italic; }
+  .post-full .content strong {
+    font-family: 'ProximaNovaBold'; }
 
 .social-share {
   list-style-type: none;
