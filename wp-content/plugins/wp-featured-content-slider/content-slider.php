@@ -52,15 +52,17 @@ $c_slider_class = c_slider_get_dynamic_class();
 				}
 			?>
             <div class="post-content">
-                <h2 class="title">
-                    <a href="<?php the_permalink();?>"><?php the_title();?></a>
-                </h2>
-                <p class="excerpt">
-                	<?php
-						$excerpt = get_the_excerpt();
-						echo string_limit_words($excerpt,22);
-					?> ...
-                </p>
+		<div class="wrap-overflow">
+			<h2 class="title">
+			    <a href="<?php the_permalink();?>"><?php the_title();?></a>
+			</h2>
+			<p class="excerpt">
+				<?php
+							$excerpt = get_the_excerpt();
+							echo string_limit_words($excerpt,22);
+						?> ...
+			</p>
+		</div>
                 <a class="button read-more" href="<?php the_permalink();?>">Read More</a>
             </div>
         </li>

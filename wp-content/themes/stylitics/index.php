@@ -11,8 +11,8 @@
             <span><a href ="<?php echo home_url( '/?p=archive' ); ?>">Older Posts</a></span>
         </span>
     </div>
-        <?php get_template_part( 'loop', 'index' ); ?>
-             
+    <?php get_template_part( 'loop', 'index' ); ?>
+           
     </div>
     <div class="c160 sidebar">
         <ul class="category-list catlist-arch">

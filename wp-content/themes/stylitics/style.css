@@ -453,7 +453,7 @@ ul, ol, li, h1, h2, h3, h4 {
 .blog-logo {
   padding-top: 4px;
   display: block;
-  float: left; }
+  float: right; }
   .blog-logo a {
     display: block;
     text-indent: -9999px;
@@ -463,7 +463,7 @@ ul, ol, li, h1, h2, h3, h4 {
 
 .menu {
   padding-top: 2px;
-  padding: 2px 60px 0px 80px;
+  padding: 2px 100px 0px 80px;
   float: left; }
   .menu > li {
     position: relative;
@@ -532,7 +532,7 @@ ul, ol, li, h1, h2, h3, h4 {
 
 .stylitics-logo {
   display: block;
-  float: right;
+  float: left;
   text-indent: -9999px;
   background: url(img/sprite.png) no-repeat -131px 0px;
   width: 80px;
@@ -554,7 +554,7 @@ ul, ol, li, h1, h2, h3, h4 {
     background-image: url(img/temp-logo-big.png); }
 .home .menu {
   padding-left: 0;
-  padding: 0px 210px 0 0px; }
+  padding: 0px 210px 0 290px; }
 
 .home > .content {
   margin-top: 178px;
@@ -1369,3 +1369,30 @@ body #mc-indicates-required {
 
 .cat-item-1 {
   display: none; }
+.wrap-overflow {
+  height: 280px;
+  overflow: hidden;
+}
+.wrap-overflow:after {
+	content: '';
+	display: block;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	bottom: 22px;
+	left: 0;
+	box-shadow: inset 0px -70px 30px -50px #fafafa;
+	z-index: 1; 
+}
+#splash > p > a > img {
+	width: 100%;
+	height: auto;
+
+}
+@media all and (max-width: 755px) {
+  #splash {
+    width: 360px !important;
+    height: 280px !important;
+    margin-left: -180px !important;
+  }
+}

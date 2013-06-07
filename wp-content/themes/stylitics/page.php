@@ -7,7 +7,7 @@
 					<h2 class="title"><?php the_title(); ?></h2>
 				<?php } else { ?>	
 					<h1 class="title"><?php the_title(); ?></h1>
-				<?php } ?>	
+				<?php } ?>
 		    </div>
 			<div class="c550 middle">
 				<div class="content">

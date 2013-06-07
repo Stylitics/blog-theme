@@ -93,5 +93,5 @@ Template Name: homepage
                 <?php get_sidebar('default'); ?>
             </div>
         </div>
-
+	
 <?php get_footer(); ?>

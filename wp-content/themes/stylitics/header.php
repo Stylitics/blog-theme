@@ -3,7 +3,6 @@
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 	<title><?php global $page, $paged;
 	wp_title( '|', true, 'right' );
 	bloginfo( 'name' );
@@ -32,9 +31,7 @@
 
    <div class="siteHeader clearfix">
         <div class="wrap clearfix">
-            <h1 class="blog-logo">
-                <a href="<?php echo home_url( '/'); ?>"><sup>The</sup> Stylitics Report</a>
-            </h1>
+	    <a class="stylitics-logo" href="http://stylitics.com">Stylitics</a>
             <?php wp_nav_menu( array('menu' => 'top-menu' )); ?>
             <ul class="social-sites clearfix">
                 <li class="facebook"><a href="http://www.facebook.com/stylitics">Facebook</a></li>
@@ -42,7 +39,9 @@
                 <li class="pinterest"><a href="http://www.pinterest.com/stylitics">Pinterest</a></li>
                 <li class="instagram"><a href="http://www.instagram.com/stylitics">Instagram</a></li>
             </ul>
-            <a class="stylitics-logo" href="http://stylitics.com">Stylitics</a>
+            <h1 class="blog-logo">
+                <a href="<?php echo home_url( '/'); ?>"><sup>The</sup> Stylitics Report</a>
+            </h1>
         </div>
 <div class="search_input wrap clearfix">
     <?php get_search_form(); ?>
