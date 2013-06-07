@@ -1,0 +1,13 @@
+@import "assets";
+.recent-posts {
+	li {
+		.title {
+			background: url(#{$imgpath}b70.png);
+			color: #fff;
+		}
+	}
+	.t1 .title {
+			background: url(#{$imgpath}w70.png);
+			color: #000;
+		}
+}

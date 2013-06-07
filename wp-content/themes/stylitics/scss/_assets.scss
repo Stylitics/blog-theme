@@ -1,0 +1,37 @@
+// fonts
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('../fonts/proximanova-reg.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../fonts/proximanova-reg.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+@font-face {
+  font-family: 'ProximaNovaBold';
+  src: url('../fonts/proximanova-bold.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../fonts/proximanova-bold.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+// variables
+$imgpath: "../img/";
+$sans-serif: Helvetica, Arial, sans-serif;
+$serif: "Times New Roman", serif;
+
+// mixins
+@mixin boxShadowCustom($shadow) {
+	-webkit-box-shadow: #{$shadow};
+	-moz-box-shadow: #{$shadow};
+	box-shadow: #{$shadow};
+}
+
+@mixin rotate($degree: 90deg) {
+	-webkit-transform: rotate($degree);
+	-moz-transform: rotate($degree);
+	-ms-transform: rotate($degree);
+	transform: rotate($degree);
+}
+
+@mixin transition($timeSpan: 0.2s) {
+	-webkit-transition: all $timeSpan ease-out;
+	-moz-transition: all $timeSpan ease-out;
+	transition: all $timeSpan ease-out;
+}
