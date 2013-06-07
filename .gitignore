@@ -5,3 +5,5 @@ wp-config.php
 wp-content/uploads/
 wp-content/wp-cache-config.php
 .htaccess
+fire_app_log.txt
+.sass-cache/
