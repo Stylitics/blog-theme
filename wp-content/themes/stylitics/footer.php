@@ -54,7 +54,7 @@
 		<script src="/wp-content/themes/stylitics/js/main.js"></script>
 		<!--[if (gte IE 6)&(lte IE 9)]>
 			<script type="text/javascript" src="/wp-content/themes/stylitics/js/selectivizr-min.js"></script>
-			<link rel="stylesheet" href="/wp-content/themes/stylitics/ie.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/wp-content/themes/stylitics/css/ie.css" type="text/css" media="all" />
 		<![endif]-->
 
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
