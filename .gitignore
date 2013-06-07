@@ -3,4 +3,5 @@ codekit-config.json
 wp-content/themes/stylitics/codekit-config.json
 wp-config.php
 wp-content/uploads/
+wp-content/wp-cache-config.php
 .htaccess
